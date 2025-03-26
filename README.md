@@ -16,6 +16,12 @@ Correct guess: +X points (e.g., +10)
 Incorrect guess: -2 points
 Use the reset button to start a new game.
 
+Screenshots:
+
+![Screenshot 2025-03-26 102326](https://github.com/user-attachments/assets/e24fdae6-3327-49d6-96f4-e537c6f06755)
+![Screenshot 2025-03-26 102308](https://github.com/user-attachments/assets/0e8c8b4b-bbde-4a58-9c76-fb4bf1abc6ce)
+![Screenshot 2025-03-26 102254](https://github.com/user-attachments/assets/61b36f7d-6315-4842-8a84-63260448cbb8)
+![Screenshot 2025-03-26 102404](https://github.com/user-attachments/assets/a5eb96b1-d28a-4a10-a2dd-f6983a3413b6)
 
 💻 Getting Started - 
 Prerequisites - 
